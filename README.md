@@ -1,4 +1,4 @@
-# media-stream
+# Media-Stream
 
 
 
@@ -31,8 +31,7 @@ SDK consists of two modules:
 
 ## Git Clone
 ```bash
-  https://github.com/durgapraveena/live-stream.git
-```
+  https://github.com/durgapraveena/media-stream.git
 ## How to run the application
 ```bash
  import the project and run the application using follwing steps
